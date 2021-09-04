@@ -1,0 +1,49 @@
+@media  only screen and (max-width: 768px) and (min-width: 415px){
+    .top{
+        padding: 0 0px;
+    }
+    .menu-bar{
+        margin-right: 20px;
+    }
+    .top-container-row-logo img {
+        width: 80px;
+        padding: 20px;
+    }
+    .about-item{
+        width: 100%;
+    }
+    .food-items{
+        width: 100%;
+    }
+    .phan-hoi-item{
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .phan-hoi{
+        padding-bottom: 40px;
+    }
+    .container{
+        width: 100%;
+        margin: auto;
+    }
+    .team-items{
+        width: 60%;
+        /* height: 200px; */
+        padding-top: 50px;
+        margin: auto;
+    }
+    .team-items-text{
+        transform: translateY(0);
+    }
+    .footer-padding-bottom {
+        padding: 20px 30px;
+    }
+    .footer {
+        padding-top: 18px;
+    }
+    .coppyright{
+        padding: 20px 0 12px;
+    }
+}
+
+
